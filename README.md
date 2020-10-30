@@ -6,6 +6,7 @@
 	 If the policy holder wants to view the information about their own policy details, he/she login to policy status page by using the policy holder ID and password had already given by stock company and view their own details and also they give feedback to the stock company.
 
 1.1 Purpose
+
 	The proposed system is designed to eliminate the drawbacks of the existing system.  It is designed by keeping to eliminate the drawbacks of the present system in order to provide a permanent solution to the problems.  The primary aim of the new system is to speedup transactions.  The report is prepared for the schemes and implemented by the concerned officials.
 	Since the advent of services in the Middle Ages Policy Agents and policy Holder have used paper-based instrument to move money between transactions. It comes as no surprise to one that when everything is being converted to computerize. Already the business has to global with the coming of Internet. Now, no more the individual aims at the local market is also just a click of button away. Dozens of companies are in the race to convince auction and bidding that a pot of Policy’s awaits those who conduct their business on the Internet. In this fast race of business and moneymaking, no country, no company and no individual want to fall back. Everyone wants to lead the group. Hence, everyone is trying to make the best use of Internet.
 
